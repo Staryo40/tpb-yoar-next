@@ -10,19 +10,19 @@
             {"itemName": "Kimia Dasar B",
             "link": "/mkbagian"},
             {"itemName": "Tata Tulis Karya Ilmiah",
-            "link": "/mkbagian"},
+            "link": "/mkdetail"},
             {"itemName": "Bahasa Inggris",
-            "link": "/mkbagian"},
+            "link": "/mkdetail"},
             {"itemName": "Pengantar Rekayasa Desain",
-            "link": "/mkbagian"},
+            "link": "/mkdetail"},
             {"itemName": "Pengenalan Komputasi",
-            "link": "/mkbagian"},
+            "link": "/mkdetail"},
             {"itemName": "Olahraga",
-            "link": "/mkbagian"},
+            "link": "/mkdetail"},
             {"itemName": "Dasar Pemrograman",
-            "link": "/mkbagian"},
+            "link": "/mkdetail"},
             {"itemName": "Komputasi dan Masyarakat",
-            "link": "/mkbagian"}
+            "link": "/mkdetail"}
         ]
     },
     "materi": {

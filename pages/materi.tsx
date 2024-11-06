@@ -5,6 +5,7 @@
 import { useRef, useState } from 'react'
 import Footer from '../components/organisms/Footer'
 import NavBar from '../components/organisms/NavBar'
+import testImage from '../assets/Himpunan Bilangan Real.png'
 
 function Materi() {
     const pendahuluan = useRef(null)
@@ -44,7 +45,7 @@ function Materi() {
                         <h2 className='text generalTitleH2'>0.1 Bilangan Real</h2>
                         <p className="text imageDetailTop">Diagram Venn Bilangan Real</p>
                         <div className="imageContainer">
-                            <img src="../assets/bilRealTest.png" alt="" />
+                            <img src={testImage.src} alt="" />
                         </div>
                         <p className='text generalContentP'>
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus id laoreet enim. Ut consequat condimentum lacus eget placerat. Nulla id interdum ligula, eget ornare tortor. Quisque eget sem blandit, consectetur augue quis, gravida justo. Etiam et laoreet metus, quis rutrum mauris. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vivamus faucibus sem sit amet urna venenatis, vitae tristique lorem elementum.
@@ -60,7 +61,7 @@ Nunc sit amet ante eu nisi dapibus semper. Maecenas vestibulum, neque non condim
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus id laoreet enim. Vivamus id laoreet enim. Ut consequat condimentum lacus eget placerat. Nulla id interdum ligula, eget ornare tortor. Quisque eget sem blandit, consectetur augue quis, gravida justo. Etiam et laoreet metus, quis rutrum mauris. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vivamus faucibus sem sit amet urna venenatis, vitae tristique lorem elementum.
                         </p>
                         <div className="imageContainer">
-                            <img src="../assets/bilRealTest.png" alt="" />
+                            <img src={testImage.src} alt="" />
                         </div>
                         <p className="text imageDetailBottom">Gambar 1. venn bilangan real</p>
                         <p className='text generalContentP'>
