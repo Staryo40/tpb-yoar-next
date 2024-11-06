@@ -89,7 +89,7 @@ Nunc sit amet ante eu nisi dapibus semper. Maecenas vestibulum, neque non condim
                     </div>
                     <div className="SidebarFixed">
                         <h2 className="text sideTitle">Matematika A Per Bagian</h2>
-                        <a href="#" className="optionBagian text">Matematika IIA</a>
+                        <a href="/mkbagian" className="optionBagian text">Matematika IIA</a>
                         <div className="SideNavContainer">
                         <h2 className="text sideTitle">Daftar Isi</h2>
                         <div className="SideNav">
